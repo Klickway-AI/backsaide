@@ -9,7 +9,7 @@ Deutschland
 
 **Kontakt**
 E-Mail: backsaide@aol.com
-Zweiter schneller Kontaktweg (Telefon oder Kontaktformular): [VOM MEISTER EINZUTRAGEN, nach § 5 Abs. 1 Nr. 2 DDG nötig, sobald Codes verkauft werden]
+Zweite E-Mail-Adresse: lnc@gmx.net
 
 **Urheberrecht**
 © 2026 Anette Käpplinger. Alle Rechte vorbehalten. backsAIde und der Name backsAIde sind Eigentum der Rechteinhaberin. Die Nutzungsbedingungen stehen in der Datei `LICENSE.txt`.
