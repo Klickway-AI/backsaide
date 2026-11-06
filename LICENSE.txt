@@ -1,0 +1,102 @@
+backsAIde (Geräte-Lizenz) – Lizenz- und Nutzungsbedingungen
+===========================================================
+
+Entwurf, Stand 06.11.2026. Copyright (c) 2026 Anette Käpplinger, Hagenbach. Alle Rechte vorbehalten.
+All rights reserved.
+
+1. Rechteinhaberin
+   Anette Käpplinger, Raiffeisenstr. 29, 76767 Hagenbach (Kontakt: backsAIt@mail.de).
+   Alle Urheber-, Nutzungs- und sonstigen Schutzrechte an backsAIde (Programm, Quellcode,
+   Dokumentation, Name, Gestaltung) liegen bei der Rechteinhaberin. Die Software wird
+   lizenziert, nicht verkauft.
+
+2. Eingeräumtes Nutzungsrecht
+   Die Rechteinhaberin räumt dir ein einfaches, nicht ausschließliches und nicht übertragbares
+   Recht ein, das Programm in der unveränderten, von ihr veröffentlichten Fassung auf eigenen
+   Servern zu installieren und nach Maßgabe von Nummer 3 zu nutzen, privat wie geschäftlich.
+
+3. Geräte-Lizenz (Kern dieser Fassung)
+   a) Ein Gerät ist dauerhaft ohne Entgelt nutzbar. Ein Gerät ist jede App oder jeder Browser,
+      die sich mit deinem Token am Server anmelden. Der Server erkennt ein Gerät
+      an einer zufälligen Geräte-Kennung, die die App einmal erzeugt. Sie enthält keine
+      persönlichen Daten.
+   b) Jedes weitere Gerät darf 14 Tage ab seiner ersten Anmeldung zum Testen genutzt werden.
+      Danach wird dieses Gerät gesperrt. Ein gesperrtes Gerät zeigt den Hinweis, dass jedes
+      weitere Gerät nach den 14 Tagen kostenpflichtig ist, sowie die Server-ID und die
+      Geräte-Kennung. Bis zu fünf Testgeräte je Server sind möglich; Entfernen gibt keinen Testplatz zurück.
+      Private Browserfenster oder gelöschte Browserdaten erzeugen eine neue Geräte-Kennung und
+      verbrauchen daher einen Testplatz.
+   c) Ein weiteres Gerät wird dauerhaft freigeschaltet, wenn du bei der Rechteinhaberin einen
+      Freischaltcode erwirbst und im Programm eingibst. Der Code gilt nur für den Server mit
+      der angegebenen Server-ID und verfällt, wenn du die Verschlüsselung des Servers mit neuem
+      Schlüssel neu einrichtest; sichere deshalb Server-Ordner und Token. Er wird nur auf diesem Server gespeichert. Den Preis und die
+      Zahlungsweise erfährst du vor dem Kauf; ein Kauf geschieht nie automatisch und nie
+      durch das Programm selbst.
+   d) Die KI-Anbindung (Connector, MCP) zählt nicht als Gerät, darf aber nur den MCP-Zugang
+      nutzen, nicht die Geräte-Oberfläche.
+   e) Deine Notizen werden durch die Sperre nicht gelöscht und bleiben mit dem freien Gerät
+      und jedem freigeschalteten Gerät nutzbar. Du kannst ein Gerät in der Geräteliste
+      entfernen und so einen Platz freigeben, zum Beispiel beim Handywechsel.
+   f) Der Server prüft die Lizenz ausschließlich lokal. Es gibt keine Verbindung zur
+      Rechteinhaberin oder zu Dritten.
+   g) Das Umgehen der Lizenzprüfung (zum Beispiel Löschen der Lizenzdatei, Verändern der
+      Systemuhr, Ändern des Programms, Erfinden von Geräte-Kennungen) ist nicht erlaubt.
+
+4. Nicht erlaubt (soweit das Gesetz nichts anderes zwingend erlaubt)
+   a) das Programm zu ändern, zu übersetzen, zu bearbeiten oder abgeleitete Werke zu erstellen,
+   b) das Programm zurückzuentwickeln, zu dekompilieren oder zu entpacken, um den Quellcode
+      zu gewinnen,
+   c) das Programm weiterzugeben, zu verkaufen, zu vermieten, zu verleihen, öffentlich
+      zugänglich zu machen oder Unterlizenzen zu erteilen; die Weitergabe eines Links auf die
+      offizielle Download-Seite ist erlaubt,
+   d) Urheberrechtsvermerke, Impressum, Namen oder diese Lizenz zu entfernen oder zu
+      verändern,
+   e) Freischaltcodes weiterzugeben oder zu veröffentlichen,
+   f) das Programm als Dienst für Dritte gegen Entgelt anzubieten.
+   Für Ausnahmen ist die schriftliche Zustimmung der Rechteinhaberin nötig.
+
+5. Zwingende gesetzliche Rechte
+   Unberührt bleiben die Rechte, die dir das Gesetz zwingend gibt, insbesondere §§ 69d Abs. 2
+   und 3 sowie 69e Urheberrechtsgesetz (Sicherungskopie, Beobachten und Testen,
+   Dekompilierung für Interoperabilität unter den dort genannten Voraussetzungen) und, wenn
+   du Verbraucher bist, die Rechte aus §§ 327 ff. BGB (digitale Produkte) und die
+   Widerrufsrechte bei einem Kauf.
+
+6. Bestandteile Dritter
+   Das Programm enthält die Laufzeitumgebung Node.js (MIT-Lizenz, Copyright der Node.js
+   contributors). Ihr Lizenztext liegt der Software als NODE-LICENSE.txt bei und gilt für
+   diesen Bestandteil. Diese Lizenz gilt nur für den eigenen Code von backsAIde.
+
+7. Gewährleistung und Haftung
+   Das freie Gerät wird unentgeltlich überlassen. Dafür und für die Testgeräte haftet die
+   Rechteinhaberin nur für Vorsatz und grobe Fahrlässigkeit sowie für arglistig verschwiegene
+   Mängel. Für entgeltlich freigeschaltete Geräte haftet sie bei einfacher Fahrlässigkeit nur
+   bei der Verletzung wesentlicher Vertragspflichten (Pflichten, auf deren Erfüllung du
+   vertrauen darfst), und dann begrenzt auf den typischen, vorhersehbaren Schaden.
+   Unberührt bleibt die Haftung für Schäden aus der Verletzung von Leben, Körper oder
+   Gesundheit, nach dem Produkthaftungsgesetz und für übernommene Garantien. Gesetzliche
+   Mängelrechte von Verbrauchern bleiben unberührt. Eine Haftung für Datenverlust besteht nur,
+   soweit er auch bei regelmäßiger, dem Wert der Daten angemessener Datensicherung
+   eingetreten wäre. Die Notizen sind verschlüsselt; geht das Token verloren, sind sie nicht
+   wiederherstellbar. Bitte sichere das Token und deine Daten selbst.
+
+8. Verstoß und Beendigung
+   Bei einem schweren Verstoß gegen diese Bedingungen kann die Rechteinhaberin das
+   Nutzungsrecht beenden. Weitere Rechte der Rechteinhaberin bleiben unberührt. Bereits
+   bezahlte Freischaltungen berechtigen bis dahin zur Nutzung.
+
+9. Anwendbares Recht
+   Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts. Zwingende Verbraucherschutz-
+   vorschriften des Staates, in dem du lebst, bleiben unberührt.
+
+---------------------------------------------------------------------------------------------
+English summary (the German text above is authoritative):
+Copyright (c) 2026 Anette Käpplinger. All rights reserved. One device may use the software free
+of charge permanently. Each further device may be tested for 14 days after its first login and is
+then locked until you enter an unlock code bought from the rights holder; further devices are
+paid after the 14 days. The check runs locally on your server, with no connection to third
+parties. Your notes are never deleted by the lock. You may not modify, reverse engineer,
+redistribute, rent, sublicense, circumvent the licence check or remove notices, except where
+mandatory law (e.g. EU Directive 2009/24/EC, sections 69d and 69e of the German Copyright Act)
+allows it. Consumer rights under sections 327 ff. of the German Civil Code remain unaffected.
+Node.js is included under the MIT licence (see NODE-LICENSE.txt). German law applies.
