@@ -4,7 +4,7 @@ Selbst gehostete Markdown-Notizen mit Sync und KI-Anbindung (MCP). Alles verschl
 
 **Lizenzmodell:** Ein Gerät ist dauerhaft kostenlos. Jedes weitere Gerät läuft 14 Tage zum Testen und ist danach gesperrt, bis ein Freischaltcode eingegeben wird (kostenpflichtig). Deine Notizen bleiben auf dem freien Gerät immer nutzbar. Details: `LICENSE.txt`.
 
-## Downloads (Release v0.4.3)
+## Downloads (Release v0.4.4)
 - Server: Linux (x64, arm64, armv7 für Raspberry Pi), Windows (macOS folgt, sobald GitHub einen Mac-Rechner frei hat)
 - Apps: Android (APK), Windows-Desktop, iPhone und iPad über Safari (siehe unten)
 - Prüfsummen: `SHA256SUMS`
