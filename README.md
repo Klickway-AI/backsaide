@@ -11,7 +11,7 @@ Selbst gehostete Markdown-Notizen mit Sync und KI-Anbindung (MCP). Alles verschl
 
 Anleitung steht in der jeweiligen `LIESMICH-*.txt` im Paket. Dieses Repo enthält nur fertige Programme und Texte, keinen Quellcode.
 
-Freischaltcode anfordern: backsAIt@mail.de (bitte Server-ID und Geräte-Kennung angeben). Impressum: `IMPRESSUM.md`. Entwurf der Bedingungen, keine Rechtsberatung.
+Freischaltcode anfordern: backsaide@aol.com (bitte Server-ID und Geräte-Kennung angeben). Impressum: `IMPRESSUM.md`. Entwurf der Bedingungen, keine Rechtsberatung.
 
 ## iPhone und iPad
 Es gibt keine eigene iOS-App (dafür braucht es ein Apple-Entwicklerkonto). Die Oberfläche läuft im Safari und lässt sich wie eine App ablegen: Adresse deines Servers im Safari öffnen, Teilen-Symbol, „Zum Home-Bildschirm“. Das Token gibst du bei jedem Start neu ein; auf dem Gerät wird nichts gespeichert. Das iPhone zählt wie jedes andere Gerät für die Geräte-Lizenz.

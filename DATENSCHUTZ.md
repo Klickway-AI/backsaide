@@ -11,4 +11,4 @@ Entwurf, Stand 06.11.2026
 - **KI-Anbindung (MCP):** Verbindest du Claude oder ein anderes KI-System mit deinem Server, fließen Notizen an dieses System. Dafür gelten dessen Datenschutzbedingungen. Das entscheidest du.
 - **Download:** Die Programme werden über GitHub bereitgestellt. Dabei verarbeitet GitHub technische Daten (z. B. IP-Adresse). Siehe die Datenschutzerklärung von GitHub.
 - **Kauf eines Codes:** Schreibst du der Rechteinhaberin, um einen Code zu kaufen, verarbeitet sie deine E-Mail-Adresse, die Server-ID und die Geräte-Kennung nur, um den Code zu erstellen und die Bestellung abzuwickeln. Rechnungsdaten werden nach den gesetzlichen Aufbewahrungsfristen gespeichert. Du hast die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit und Beschwerde bei einer Aufsichtsbehörde.
-- **Fragen:** backsAIt@mail.de, Anette Käpplinger, Raiffeisenstr. 29, 76767 Hagenbach.
+- **Fragen:** backsaide@aol.com, Anette Käpplinger, Raiffeisenstr. 29, 76767 Hagenbach.

@@ -8,7 +8,7 @@ Raiffeisenstr. 29
 Deutschland
 
 **Kontakt**
-E-Mail: backsAIt@mail.de
+E-Mail: backsaide@aol.com
 Zweiter schneller Kontaktweg (Telefon oder Kontaktformular): [VOM MEISTER EINZUTRAGEN, nach § 5 Abs. 1 Nr. 2 DDG nötig, sobald Codes verkauft werden]
 
 **Urheberrecht**
