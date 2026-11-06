@@ -37,7 +37,10 @@ All rights reserved.
    e) Deine Notizen werden durch die Sperre nicht gelöscht und bleiben mit dem freien Gerät
       und jedem freigeschalteten Gerät nutzbar. Du kannst ein Gerät in der Geräteliste
       entfernen und so einen Platz freigeben, zum Beispiel beim Handywechsel.
-   f) Der Server prüft die Lizenz ausschließlich lokal. Es gibt keine Verbindung zur
+   f) Testzähler und eingelöste Codes merkt sich der Server zusätzlich verschlüsselt im
+      Schlüssel-Tresor. Geht die Lizenzdatei verloren oder wird sie beschädigt, stellt er den
+      Stand daraus wieder her; deine eingelösten Codes bleiben gültig.
+      Der Server prüft die Lizenz ausschließlich lokal. Es gibt keine Verbindung zur
       Rechteinhaberin oder zu Dritten.
    g) Das Umgehen der Lizenzprüfung (zum Beispiel Löschen der Lizenzdatei, Verändern der
       Systemuhr, Ändern des Programms, Erfinden von Geräte-Kennungen) ist nicht erlaubt.
